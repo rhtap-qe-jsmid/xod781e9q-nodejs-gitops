@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xod781e9q-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/xod781e9q-nodejs-gitops
